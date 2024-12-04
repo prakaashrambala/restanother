@@ -1,0 +1,7 @@
+<suite name="API Suite">
+    <test name="Petstore API Tests">
+        <classes>
+            <class name="com.example.api.PetstoreAPITest"/>
+        </classes>
+    </test>
+</suite>
